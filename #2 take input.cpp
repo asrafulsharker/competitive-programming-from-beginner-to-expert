@@ -5,5 +5,5 @@ int main(){
     string n;
     cin >> n;
     cout << "Welcome to competitive programming " << n;
-    while(true);
+   
 }
