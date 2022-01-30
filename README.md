@@ -1,7 +1,5 @@
 ﻿# competitive-programming-from-beginner-to-expert
-![Blog-1](https://user-images.githubusercontent.com/64266026/151698152-01bad19e-00d1-43ff-aa52-f6afb1f5fb34.png)
-
-![blog-25](https://user-images.githubusercontent.com/64266026/151698157-1edbf9c6-a27e-4377-af68-ef7e40b49267.png)
-![qbnmey9jxvugldihdpng](https://user-images.githubusercontent.com/64266026/151698161-e7ba01ce-ec62-4e1c-be81-7b16c5282f22.png)
-![improve-skill-c-programming-1024x901](https://user-images.githubusercontent.com/64266026/151698217-4cc3eb54-c49c-40de-98ee-0abcaf562e24.jpg)
-
+![qbnmey9jxvugldihdpng](https://user-images.githubusercontent.com/64266026/151698245-8280f7d7-87d2-4957-b4b3-64bdc9472d70.png)
+![blog-25](https://user-images.githubusercontent.com/64266026/151698249-07241735-f319-4425-a0c7-003435ec1697.png)
+![Blog-1](https://user-images.githubusercontent.com/64266026/151698254-aff9495c-b829-4cde-99bd-05f471a983c5.png)
+![improve-skill-c-programming-1024x901](https://user-images.githubusercontent.com/64266026/151698257-2084debc-820d-4910-ba8a-4e0d8667854c.jpg)
